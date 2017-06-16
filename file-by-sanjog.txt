@@ -1,8 +1,1 @@
-I creted a file.
-U updated this file on branch-sanjog
-I udpated this file on branch-arjun
-<<<<<<< HEAD
-I updated this file on master in order to create a merge conflict scenario
-=======
-I added somethig to branch arjun again
->>>>>>> branch-arjun
+bazuka
