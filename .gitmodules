@@ -1,0 +1,6 @@
+[submodule "GitIgnoreTestProject"]
+	path = GitIgnoreTestProject
+	url = https://github.com/sigdelsanjog/.gitignore
+[submodule "subprojects/GitIgnoreTestProject"]
+	path = subprojects/GitIgnoreTestProject
+	url = https://github.com/sigdelsanjog/.gitignore
